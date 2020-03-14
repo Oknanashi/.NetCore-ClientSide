@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netcore-clientside/precache-manifest.90997991f45c8d8b55c5bcb82d0f6dab.js"
+  "/netcore-clientside/precache-manifest.8ba76b07944b63efdd4df95afd85f5b6.js"
 );
 
 self.addEventListener('message', (event) => {
