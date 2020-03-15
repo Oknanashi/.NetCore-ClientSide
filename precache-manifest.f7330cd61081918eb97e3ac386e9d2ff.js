@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bca5ace83d931b68bbf1ea2ed2b555f",
+    "revision": "a0d4b03e86e8fc884828f96fe9fea886",
     "url": "/netcore-clientside/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netcore-clientside/static/css/2.49293bbc.chunk.css"
   },
   {
-    "revision": "0fe1bfb401915434e456",
+    "revision": "23f807c537c2b2d60f84",
     "url": "/netcore-clientside/static/css/main.dcfde02c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netcore-clientside/static/js/2.7e24c9a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fe1bfb401915434e456",
-    "url": "/netcore-clientside/static/js/main.99907f68.chunk.js"
+    "revision": "23f807c537c2b2d60f84",
+    "url": "/netcore-clientside/static/js/main.dfc7b561.chunk.js"
   },
   {
     "revision": "24e3bc62370366f57231",
